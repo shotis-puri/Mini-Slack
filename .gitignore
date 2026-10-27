@@ -1,0 +1,9 @@
+# Runtime data (SQLite database lives here)
+/data/*
+!/data/.gitkeep
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.log
